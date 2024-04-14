@@ -1,0 +1,289 @@
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/master)
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+:...skipping...
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit de7601fc2de5b9486b10010e8e093ebe1e8c0523 (origin/bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d0d07ade7946eb9732fee498c46eeec523c8ee17 (origin/bug1, bug1)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:15:48 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit ede96a045326aff4bb8102de518a86011978a6d8
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 076c2d9059b07c71f8d8d0397c42af483a005ada
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:04:33 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit bf537bbbf7d649b27b91dd3121f83e5f6dac6d27
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:49:26 2024 +0200
+
+    Add starter code
+
+commit 640bccd7705bc816b3f2fa6f9683bcfc08c46074
+Author: Elza <elzaadzija4@gmail.com>
+:
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/master)
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit de7601fc2de5b9486b10010e8e093ebe1e8c0523 (origin/bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d0d07ade7946eb9732fee498c46eeec523c8ee17 (origin/bug1, bug1)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:15:48 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit ede96a045326aff4bb8102de518a86011978a6d8
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 076c2d9059b07c71f8d8d0397c42af483a005ada
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:04:33 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit bf537bbbf7d649b27b91dd3121f83e5f6dac6d27
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:49:26 2024 +0200
+
+    Add starter code
+
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/master)
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+:...skipping...
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit de7601fc2de5b9486b10010e8e093ebe1e8c0523 (origin/bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d0d07ade7946eb9732fee498c46eeec523c8ee17 (origin/bug1, bug1)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:15:48 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit ede96a045326aff4bb8102de518a86011978a6d8
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 076c2d9059b07c71f8d8d0397c42af483a005ada
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:04:33 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit bf537bbbf7d649b27b91dd3121f83e5f6dac6d27
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:49:26 2024 +0200
+
+    Add starter code
+
+commit 640bccd7705bc816b3f2fa6f9683bcfc08c46074
+Author: Elza <elzaadzija4@gmail.com>
+:
+commit 005933c7918bc29b64a4e724f76ca30ed40d4761 (HEAD -> master, origin/master)
+Merge: b464f9a de7601f
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:43:06 2024 +0200
+
+    Resolve merge conflict
+
+commit b464f9ae96f155e471c6c510d401ef83072d3268 (bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a4ec7e2d6f93874609e531876bb50b42680cf8c2
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit de7601fc2de5b9486b10010e8e093ebe1e8c0523 (origin/bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d0d07ade7946eb9732fee498c46eeec523c8ee17 (origin/bug1, bug1)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:15:48 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit ede96a045326aff4bb8102de518a86011978a6d8
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 076c2d9059b07c71f8d8d0397c42af483a005ada
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:04:33 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit bf537bbbf7d649b27b91dd3121f83e5f6dac6d27
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:49:26 2024 +0200
+
+    Add starter code
+
+commit 640bccd7705bc816b3f2fa6f9683bcfc08c46074
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:24:46 2024 +0200
+
+    Initial commit
+(END)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit de7601fc2de5b9486b10010e8e093ebe1e8c0523 (origin/bug2)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:20:37 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit d0d07ade7946eb9732fee498c46eeec523c8ee17 (origin/bug1, bug1)
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:15:48 2024 +0200
+
+    а Call method filterOddLengthStrings in main class
+
+commit ede96a045326aff4bb8102de518a86011978a6d8
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:09:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 076c2d9059b07c71f8d8d0397c42af483a005ada
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 01:04:33 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit bf537bbbf7d649b27b91dd3121f83e5f6dac6d27
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:49:26 2024 +0200
+
+    Add starter code
+
+commit 640bccd7705bc816b3f2fa6f9683bcfc08c46074
+Author: Elza <elzaadzija4@gmail.com>
+Date:   Sun Apr 14 00:24:46 2024 +0200
+
+    Initial commit
+(END)
